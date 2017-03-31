@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../DispAlu4.srcs/sources_1/imports/DispAdder4/Adder1.vhd"
+vhdl xil_defaultlib  "../../../DispAlu4.srcs/sources_1/new/Alu1.vhd"
+vhdl xil_defaultlib  "../../../DispAlu4.srcs/sources_1/new/Alu4.vhd"
+
+# Do not sort compile order
+nosort

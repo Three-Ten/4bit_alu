@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/billy/lab2test/DispAlu4/DispAlu4.srcs/sources_1/imports/DispAdder4/Adder1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Adder1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/billy/lab2test/DispAlu4/DispAlu4.srcs/sources_1/new/Alu1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Alu1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/billy/lab2test/DispAlu4/DispAlu4.srcs/sources_1/new/Alu4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Alu4
